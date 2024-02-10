@@ -6,8 +6,6 @@ body {
 .navbar {
   background-color: #383838;
 }
-
-
 .navbar-toggler-icon {
   color: white !important;
 }
@@ -140,11 +138,4 @@ body {
 /* Optional: Add styling for sections */
 #section2 {
   background-color: #e0e0e0;
-}body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
 }
